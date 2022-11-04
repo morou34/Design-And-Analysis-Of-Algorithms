@@ -46,13 +46,13 @@ void merge(std::vector<int> &vec, int l, int m, int r)
 
 void mergeSort(std::vector<int> &vec, int l, int r)
 {
-    if (l < r)
-    {
+    if (l >= r)
+        return ;
+        
         int m = (l + r) / 2;
         mergeSort(vec, l, m);
         mergeSort(vec, m + 1, r);
         merge(vec, l, m, r);
-    }
 }
 
 int main(int argc, char const *argv[])
