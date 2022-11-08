@@ -1,4 +1,4 @@
-## IFT-3001-Design-and-analysis-of-algorithms
+## Design And Analysis Of Algorithms
 In this C++ repository, you can find my solutions for the IFT-3001 university course problems; 
 
 ## Course Description
