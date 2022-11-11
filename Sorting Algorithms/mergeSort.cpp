@@ -8,6 +8,8 @@ void printData(const std::vector<int> &vec)
         std::cout << number << " ";
     std::cout << "]\n";
 }
+
+
 void merge(std::vector<int> &vec, int l, int m, int r)
 {
 
