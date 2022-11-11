@@ -1,5 +1,7 @@
 ## Design And Analysis Of Algorithms
-In this C++ repository, you can find my solutions for the IFT-3001 university course problems; 
+In this C++ repository, you can find my solutions for the GLO-2100 and IFT-3001 university courses problems;
+GLO-2100: Data Structures And Algorithms
+IFT-3001: Design And Analysis Of Algorithms
 
 ## Course Description
 
